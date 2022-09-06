@@ -1,27 +1,25 @@
-<p align="center">
-  <a href="https://abhigyantrips.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abhigyantrips&show_icons=true&theme=dark&hide_border=true&icon_color=f28a00" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhigyantrips&theme=dark&hide_border=true" />
-  </a>
-</p>
+# 💫 About Me:
+🔭 I’m currently working on Html, Css, Javascript<br>🤝 I’m looking for help with Html, Css, Javascript<br>🌱 I’m currently learning Html, Css, Javascript<br>
 
-<br/>
 
-<p>
-</div> 
-<div align="center">
-  <img src="https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=javascript&color=151515&logoColor=000&labelColor=f28a00">
-  <img src="https://img.shields.io/badge/-Node.JS-000?style=for-the-badge&logo=node.js&color=151515&logoColor=000&labelColor=f28a00">
-  <img src="https://img.shields.io/badge/-Typescript-000?style=for-the-badge&logo=typescript&color=151515&logoColor=000&labelColor=f28a00">
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5&color=151515&logoColor=000&labelColor=f28a00">
-  <img src="https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&color=151515&logoColor=000&labelColor=f28a00">
-  <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&color=151515&logoColor=000&labelColor=f28a00">
-  <img src="https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&color=151515&logoColor=000&labelColor=f28a00">
-  <img src="https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&color=151515&logoColor=000&labelColor=f28a00">
-</p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/AlaganHan#4833) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fatih_akkayagil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/FatihAkkayagil) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/fatih_akkayagil) 
 
-<br/>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=FatihAkkayagil&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=FatihAkkayagil&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FatihAkkayagil&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhigyantrips&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00)](https://abhigyantrips.dev)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=FatihAkkayagil&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=FatihAkkayagil&icon=0&color=1)](https://visitcount.itsvg.in)
