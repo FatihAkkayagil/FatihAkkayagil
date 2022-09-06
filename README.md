@@ -7,7 +7,7 @@ I'm a who is passionate about writing code, solving problems, automating stuff, 
 - 🔭 I’m currently a Programing student at Celal Bayar Unversity.
 - 📚 I’m currently learning  frontend web development using Html, Css and Javascript.
 - 👯 I’m looking for a software development internship. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/fatih-akkayagil/) [Gmail](mailto:fatih_akkayagil@hotmail.com)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/fatih-akkayagil/) <a href="mailto:fatih_akkayagil@hotmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ⭐️ From [fatih_akkayagil](https://github.com/FatihAkkayagil)
 Inspired from [AbdelrahmanBayoumi](https://github.com/abdelrahmanbayoumi)
