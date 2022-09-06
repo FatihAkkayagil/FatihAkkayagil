@@ -7,10 +7,8 @@ I'm a who is passionate about writing code, solving problems, automating stuff, 
 - 🔭 I’m currently a Programing student at Celal Bayar Unversity.
 - 📚 I’m currently learning  frontend web development using Html, Css and Javascript.
 - 👯 I’m looking for a software development internship. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/fatih-akkayagil/) <a href="mailto:fatih_akkayagil@hotmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/fatih-akkayagil/) 
 
-⭐️ From [fatih_akkayagil](https://github.com/FatihAkkayagil)
-Inspired from [AbdelrahmanBayoumi](https://github.com/abdelrahmanbayoumi)
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
